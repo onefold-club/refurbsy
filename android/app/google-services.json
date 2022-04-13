@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11788226896",
+    "project_id": "refurbsy-d9701",
+    "storage_bucket": "refurbsy-d9701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11788226896:android:c47a64010e1246dc465c55",
+        "android_client_info": {
+          "package_name": "com.b2b.refurbsy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11788226896-mp4uugrqlnq10gbqmqjff0qe1g8g614t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCxfDM87k6ZfEKsvfL-9UCSHJuMdoKh9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11788226896-mp4uugrqlnq10gbqmqjff0qe1g8g614t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
